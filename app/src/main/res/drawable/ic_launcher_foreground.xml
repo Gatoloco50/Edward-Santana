@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cyber Shield Outer -->
+    <path
+        android:pathData="M54,26 L76,34 L76,56 C76,69 66,79 54,84 C42,79 32,69 32,56 L32,34 Z"
+        android:fillColor="#18132B"
+        android:strokeColor="#A855F7"
+        android:strokeWidth="2.5" />
+    <!-- Shield Inner Glow -->
+    <path
+        android:pathData="M54,30 L72,37 L72,55 C72,66 64,74 54,79 C44,74 36,66 36,55 L36,37 Z"
+        android:fillColor="#22173F"
+        android:strokeColor="#00E676"
+        android:strokeWidth="1.2" />
+    <!-- Cyber Sword / Crystal Blade -->
+    <path
+        android:pathData="M54,23 L59,33 L57,67 L54,72 L51,67 L49,33 Z"
+        android:fillColor="#00E676" />
+    <path
+        android:pathData="M54,23 L57,33 L55,67 L54,72 Z"
+        android:fillColor="#69F0AE" />
+    <!-- Sword Crossguard -->
+    <path
+        android:pathData="M44,61 L64,61 L66,65 L42,65 Z"
+        android:fillColor="#FFD700" />
+    <!-- Sword Hilt & Pommel -->
+    <path
+        android:pathData="M52,65 L56,65 L56,76 L52,76 Z"
+        android:fillColor="#E2E8F0" />
+    <path
+        android:pathData="M54,76 L57,79 L54,82 L51,79 Z"
+        android:fillColor="#FFD700" />
+    <!-- Neon Star Rune in shield center -->
+    <path
+        android:pathData="M54,42 L56,48 L62,50 L56,52 L54,58 L52,52 L46,50 L52,48 Z"
+        android:fillColor="#FFD700" />
+</vector>

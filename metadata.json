@@ -1,0 +1,6 @@
+{
+  "name": "HabitQuest",
+  "description": "Gestor gamificado de hábitos y tareas estilo RPG cyber-fantasy con héroe, batallas de jefes y recompensas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
